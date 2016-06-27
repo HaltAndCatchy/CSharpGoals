@@ -1,0 +1,6 @@
+C:\Work\AcademyExtended\CSharpGoals\CSharpGoals\CSharpGoals\bin\Debug\CSharpGoals.exe.config
+C:\Work\AcademyExtended\CSharpGoals\CSharpGoals\CSharpGoals\bin\Debug\CSharpGoals.exe
+C:\Work\AcademyExtended\CSharpGoals\CSharpGoals\CSharpGoals\bin\Debug\CSharpGoals.pdb
+C:\Work\AcademyExtended\CSharpGoals\CSharpGoals\CSharpGoals\obj\Debug\CSharpGoals.csprojResolveAssemblyReference.cache
+C:\Work\AcademyExtended\CSharpGoals\CSharpGoals\CSharpGoals\obj\Debug\CSharpGoals.exe
+C:\Work\AcademyExtended\CSharpGoals\CSharpGoals\CSharpGoals\obj\Debug\CSharpGoals.pdb
